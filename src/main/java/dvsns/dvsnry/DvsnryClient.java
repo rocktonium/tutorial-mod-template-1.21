@@ -1,8 +1,8 @@
-package dvsns.tutorialmod;
+package dvsns.dvsnry;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class TutorialModClient implements ClientModInitializer {
+public class DvsnryClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 

@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorial-mod",
+	"id": "dvsnry",
 	"version": "${version}",
-	"name": "Tutorial Mod",
+	"name": "DVSNRY",
 	"description": "mod by dvsns",
 	"authors": [
 		"Me!"
@@ -12,16 +12,17 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/tutorial-mod/icon.png",
+	"icon": "assets/dvsnry/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"dvsns.tutorialmod.TutorialMod"
+			"dvsns.dvsnry.Dvsnry"
 		],
 		"fabric-datagen": [
-			"dvsns.tutorialmod.TutorialModDataGenerator"
+			"dvsns.dvsnry.DvsnryDataGenerator"
 		],
-		"client": [ "dvsns.tutorialmod.TutorialModClient"
+		"client": [
+			"dvsns.dvsnry.DvsnryClient"
 		]
 	},
 	"mixins": [

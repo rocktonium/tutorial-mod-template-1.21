@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "dvsns.tutorialmod.mixin",
+	"package": "dvsns.dvsnry.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

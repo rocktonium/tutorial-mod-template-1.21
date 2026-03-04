@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dvsnry:raw_jade_block",
+    "dvsnry:jade_block",
+    "dvsnry:cobalt_block",
+    "dvsnry:raw_cobalt_block"
+
+  ]
+}

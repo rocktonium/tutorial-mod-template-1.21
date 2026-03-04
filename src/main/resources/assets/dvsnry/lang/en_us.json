@@ -1,0 +1,19 @@
+{
+  "comment1": "CREATIVE TABS",
+  "itemgroup.dvsnry.dvsnry_items": "DVSNRY",
+
+
+  "comment2": "JADE STUFF",
+  "item.dvsnry.jade_gem": "Jade",
+  "item.dvsnry.crystalline_jade": "Crystalline Jade",
+  "item.dvsnry.jade_sword": "Jade Sword",
+
+  "block.dvsnry.jade_block": "Block of Jade",
+  "block.dvsnry.raw_jade_block": "Block of Raw Jade",
+
+  "comment3": "COBALT STUFF",
+  "item.dvsnry.cobalt_shard": "Cobalt Shard",
+  "item.dvsnry.cobalt_metal": "Cobalt Metal",
+  "block.dvsnry.cobalt_block": "Block of Cobalt",
+  "block.dvsnry.raw_cobalt_block": "Block of Raw Cobalt"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dvsnry:jade_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "dvsnry:crystalline_jade"
+  }
+}
